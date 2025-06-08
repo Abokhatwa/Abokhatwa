@@ -1,4 +1,3 @@
-(https://github.com/Abokhatwa)
 <h1 align="center">Hi 👋, I'm Saeed Abokhatwa</h1>
 <h3 align="center">A passionate Machine learning engineer from Egypt who lives in the UK</h3>
 
